@@ -1,4 +1,4 @@
-# IBM Data Science Professional Certificate Captstone Project
+# IBM Data Science Professional Certificate Capststone Project
 
 This is my project for the 9th course - the so called *Capstone Project - The Battle of Neighborhoods* developed and teached by IBM on Coursera.
 
@@ -9,14 +9,16 @@ I put the code in two Jupyter Notebooks. You can jump directly to the commit of 
 	- [Table from Wikipedia scraped](https://github.com/dirkkalmbach/IBM-Data-Science-Professional-Certificate/blob/dce3712d94d3314a8fd46f9e7550bc9c81133d5e/Capstone-Project.ipynb)
 	- [DataFrame built of Toronto Data](https://github.com/dirkkalmbach/IBM-Data-Science-Professional-Certificate/blob/826a6f91dbd2cc337445cdf424bfaf0acdab8608/Capstone-Project.ipynb)
 	- [Cluster of neighbourhoods in Toronto explored](https://github.com/dirkkalmbach/IBM-Data-Science-Professional-Certificate/blob/master/Capstone-Project.ipynb)
+- Week 3: 
+	- [Jupyter Notebook](Capstone-Project-Part_1.ipynb)
 - Week 4: 
 	- [Jupyter Notebook](Capstone-Project-Part_1.ipynb)
 	- [Data Science Problem](Data Science Problem.md)
 	- [Data Understanding](Data Understanding.md)
 - Week 5: 
-	- [Jupyter Notebook](Capstone-Project-Part_2.ipynb)
-	- [Data Sciencd Report](Data Science Report.md)
-	- [Presentation](Presentation.pptx)
+	- [Jupyter Notebook](Capstone-Project-Part_2.ipynb)   
+	- [Data Science Report](Data Science Report.md)   
+	- [Presentation](Presentation.pptx)   
 	
 ## Getting Started
 
