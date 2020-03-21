@@ -9,7 +9,15 @@ I put the code in two Jupyter Notebooks. You can jump directly to the commit of 
 	- [Table from Wikipedia scraped](https://github.com/dirkkalmbach/IBM-Data-Science-Professional-Certificate/blob/dce3712d94d3314a8fd46f9e7550bc9c81133d5e/Capstone-Project.ipynb)
 	- [DataFrame built of Toronto Data](https://github.com/dirkkalmbach/IBM-Data-Science-Professional-Certificate/blob/826a6f91dbd2cc337445cdf424bfaf0acdab8608/Capstone-Project.ipynb)
 	- [Cluster of neighbourhoods in Toronto explored](https://github.com/dirkkalmbach/IBM-Data-Science-Professional-Certificate/blob/master/Capstone-Project.ipynb)
-
+- Week 4: 
+	- [Jupyter Notebook](Capstone-Project-Part_1.ipynb)
+	- [Data Science Problem](Data Science Problem.md)
+	- [Data Understanding](Data Understanding.md)
+- Week 5: 
+	- [Jupyter Notebook](Capstone-Project-Part_2.ipynb)
+	- [Data Sciencd Report](Data Science Report.md)
+	- [Presentation](Presentation.pptx)
+	
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
